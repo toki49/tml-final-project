@@ -1,0 +1,27 @@
+﻿# Raw input data to include in the capstone submission
+!data/
+!data/raw/
+!data/raw/credit-risk.xlsx
+
+# Keep empty output folders visible
+!/data/processed/
+!/models/
+!/figures/
+!/data/processed/.gitkeep
+!/models/.gitkeep
+!/figures/.gitkeep
+
+# Generated artifacts
+/data/processed/*
+/models/*
+/figures/*
+
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
