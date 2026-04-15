@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 
 ## How to Run
-
+If computationally easier, data is included in this Google Driver as well: https://drive.google.com/drive/folders/1-PQdBZ8Q9gFedv8owtpSx8epCXl0rPW9?usp=sharing
 Run the scripts in this order:
 
 ```bash
