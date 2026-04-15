@@ -107,3 +107,6 @@ The raw workbook is sizable, and the generated processed CSVs and Random Forest 
 - The dataset is European in scope, so findings may differ from the original U.S.-focused utility or credit applications the user may want to compare against.
 - `MScore` is used as a downgrade proxy rather than true external rating agency downgrade events.
 - Full SHAP analysis was skipped due to computation scale, so the project currently uses Random Forest built-in feature importances instead.
+
+## Disclaimers and Acknowledgements
+Solely for research purposes only and knowledge expansion. Big thank you to everyone in the class, CS135 that taught me about Random Forest decision trees, one hot encoding of categorical variables, how to preprocess and clean data, and big thank you to someone on GitHub for helping me find the perfect European credit risk data.
